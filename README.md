@@ -9,7 +9,7 @@ by Gabriella Skitalinskaya, Maximilian Spliethöver, Henning Wachsmuth
 ## Reproducing results
 
 ### Models & Data
-BART checkpoints, along with BERT, SBERT and SVMRank models can de found [here]()
+To obtain access to BART checkpoints, along with BERT, SBERT and SVMRank models, please reach out to Gabriella Skitalinskaya (email can be found in paper). Let us know if you have any questions.
 
 ### Generation
 
@@ -110,7 +110,6 @@ Candidate ranking:
             --argquality models/argument_quality/ \
             --sbertmodel models/sbert/ \
             --outfile results.csv
-
 
 ### Citation
 If you use this corpus or code in your research, please include the following citation:
