@@ -104,3 +104,19 @@ Candidate ranking:
             --argquality models/argument_quality/ \
             --sbertmodel models/sbert/ \
             --outfile results.csv
+
+
+### Citation
+If you use this corpus or code in your research, please include the following citation:
+```
+@misc{skitalinskaya-etal-2022-optimization,
+  doi = {10.48550/ARXIV.2212.08913},
+  url = {https://arxiv.org/abs/2212.08913},
+  author = {Skitalinskaya, Gabriella and Spliethöver, Maximilian and Wachsmuth, Henning},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Claim Optimization in Computational Argumentation},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
