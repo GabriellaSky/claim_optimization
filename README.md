@@ -1,5 +1,11 @@
 # Argument Optimization
 
+This repository contains the code associated with the following paper:
+
+
+[Claim Optimization in Computational Argumentation](https://arxiv.org/abs/2212.08913)
+by Gabriella Skitalinskaya, Maximilian Spliethöver, Henning Wachsmuth
+
 ## Reproducing results
 
 ### Models & Data
