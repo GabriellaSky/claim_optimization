@@ -114,14 +114,17 @@ Candidate ranking:
 ### Citation
 If you use this corpus or code in your research, please include the following citation:
 ```
-@misc{skitalinskaya-etal-2022-optimization,
-  doi = {10.48550/ARXIV.2212.08913},
-  url = {https://arxiv.org/abs/2212.08913},
-  author = {Skitalinskaya, Gabriella and Spliethöver, Maximilian and Wachsmuth, Henning},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Claim Optimization in Computational Argumentation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{skitalinskaya-etal-2023-claim,
+    title = "Claim Optimization in Computational Argumentation",
+    author = "Skitalinskaya, Gabriella  and
+      Spliethöver, Maximilian  and
+      Wachsmuth, Henning",
+    booktitle = "Proceedings of the 16th International Natural Language Generation Conference",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czechia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.inlg-main.10",
+    pages = "134--152",
 }
 ```
